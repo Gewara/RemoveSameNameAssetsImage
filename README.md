@@ -1,0 +1,2 @@
+# RemoveSameNameAssetsImage
+删除Assets.xcassets下名字相同的图片
